@@ -21,7 +21,7 @@ public class ControlVersiones_Prueba1 {
         JOptionPane.showMessageDialog(null, "Hola compañeros...");
         JOptionPane.showMessageDialog(null, "Como estan");
         
-        
+        JOptionPane.showMessageDialog(null, "HOLA MUNDO...");
         /**********************************************************************/
         
         JOptionPane.showMessageDialog(null, "Estoy editando el proyecto");
