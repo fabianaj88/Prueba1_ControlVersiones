@@ -20,7 +20,6 @@ public class ControlVersiones_Prueba1 {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "Hola compañeros...");
         JOptionPane.showMessageDialog(null, "Como estan");
-        JOptionPane.showMessageDialog(null, "Soy Cristian");
     }
     
 }
